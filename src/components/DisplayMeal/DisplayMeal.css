@@ -1,0 +1,11 @@
+.displayMeal img{
+    width: 350px;
+    height: 250px;
+}
+.btn{
+    background-color: goldenrod;
+    border: 2px solid gainsboro;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 10px;
+}
